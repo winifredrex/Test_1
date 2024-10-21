@@ -1,0 +1,15 @@
+/Users/winifredrex/Desktop/Test_1/bin/Debug/net7.0/Test_1
+/Users/winifredrex/Desktop/Test_1/bin/Debug/net7.0/Test_1.deps.json
+/Users/winifredrex/Desktop/Test_1/bin/Debug/net7.0/Test_1.runtimeconfig.json
+/Users/winifredrex/Desktop/Test_1/bin/Debug/net7.0/Test_1.dll
+/Users/winifredrex/Desktop/Test_1/bin/Debug/net7.0/Test_1.pdb
+/Users/winifredrex/Desktop/Test_1/obj/Debug/net7.0/Test_1.csproj.AssemblyReference.cache
+/Users/winifredrex/Desktop/Test_1/obj/Debug/net7.0/Test_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/winifredrex/Desktop/Test_1/obj/Debug/net7.0/Test_1.AssemblyInfoInputs.cache
+/Users/winifredrex/Desktop/Test_1/obj/Debug/net7.0/Test_1.AssemblyInfo.cs
+/Users/winifredrex/Desktop/Test_1/obj/Debug/net7.0/Test_1.csproj.CoreCompileInputs.cache
+/Users/winifredrex/Desktop/Test_1/obj/Debug/net7.0/Test_1.dll
+/Users/winifredrex/Desktop/Test_1/obj/Debug/net7.0/refint/Test_1.dll
+/Users/winifredrex/Desktop/Test_1/obj/Debug/net7.0/Test_1.pdb
+/Users/winifredrex/Desktop/Test_1/obj/Debug/net7.0/Test_1.genruntimeconfig.cache
+/Users/winifredrex/Desktop/Test_1/obj/Debug/net7.0/ref/Test_1.dll
